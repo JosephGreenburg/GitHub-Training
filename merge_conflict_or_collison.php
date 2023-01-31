@@ -12,7 +12,7 @@ ACP, Pull Request and merge.
 
 Create a collison/conflict on purpose and go through the steps
 */
-/* Resulted in a conflict but kept all the code. 
+// Resulted in a conflict but kept all the code. 
 
 echo "Goodbye Repo";
 
