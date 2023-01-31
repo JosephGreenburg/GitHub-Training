@@ -8,3 +8,5 @@ Create pull request
 Merge pull request
 Create a collison/conflict on purpose and go through the steps
 */
+
+echo "Goodbye Repo";
